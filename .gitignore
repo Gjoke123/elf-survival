@@ -26,5 +26,4 @@ node_modules
 dist
 .git
 .gitlab
-Dockerfile
 npm-debug.log
